@@ -1,101 +1,103 @@
 {
-    "movies": {
-        "results": {
-            "_id": "61e57fd65c5338f43c777f5c",
-            "id": "tt0000086",
-            "originalTitleText": {
-                "__typename": "TitleText",
-                "text": "Jetée et plage de Trouville (1er partie)"
-            },
-            "primaryImage": {
-                "__typename": "Image",
-                "caption": "jeter",
-                "height": 300,
-                "id": "rm1872487936",
-                "url": "https://m.media-amazon.com/images/M/MV5BNzdmZjgzMmQtNWNmYS00NTIzLTkxYjctNmUxYmJlMDAzZDk4XkEyXkFqcGdeQXVyNTI2NTY2MDI@._V1_.jpg",
-                "width": 226
-            },
-            "releaseDate": null,
-            "releaseYear": {
-                "__typename": "YearRange",
-                "endYear": null,
-                "year": 1896
-            },
-            "titleText": {
-                "__typename": "TitleText",
-                "text": "Jetée et plage de Trouville (1er partie)"
-            },
-            "titleType": {
-                "__typename": "TitleType",
-                "id": "short",
-                "isEpisode": false,
-                "isSeries": false,
-                "text": "Short"
-            }
+  "movies": {
+    "results": [
+      {
+        "_id": "61e57fd65c5338f43c777f5c",
+        "id": "tt0000086",
+        "originalTitleText": {
+          "__typename": "TitleText",
+          "text": "Jetée et plage de Trouville (1er partie)"
         },
-        "results": {
-            "_id": "61e57fd65c5338f43c777f56",
-            "id": "tt0000125",
-            "originalTitleText": {
-                "__typename": "TitleText",
-                "text": "The Terrible Railway Accident"
-            },
-            "primaryImage": null,
-            "releaseDate": null,
-            "releaseYear": {
-                "__typename": "YearRange",
-                "endYear": null,
-                "year": 1896
-            },
-            "titleText": {
-                "__typename": "TitleText",
-                "text": "The Terrible Railway Accident"
-            },
-            "titleType": {
-                "__typename": "TitleType",
-                "id": "short",
-                "isEpisode": false,
-                "isSeries": false,
-                "text": "Short"
-            }
+        "primaryImage": {
+          "__typename": "Image",
+          "caption": "jeter",
+          "height": 300,
+          "id": "rm1872487936",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzdmZjgzMmQtNWNmYS00NTIzLTkxYjctNmUxYmJlMDAzZDk4XkEyXkFqcGdeQXVyNTI2NTY2MDI@._V1_.jpg",
+          "width": 226
         },
-        "results": {
-            "_id": "61e58086971a4a15d6413b33",
-            "id": "tt0042192",
-            "originalTitleText": {
-                "__typename": "TitleText",
-                "text": "All About Eve"
-            },
-            "primaryImage": {
-                "__typename": "Image",
-                "caption": "all about eve",
-                "height": 1500,
-                "id": "rm3316236544",
-                "url": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
-                "width": 1000
-            },
-            "releaseDate": {
-                "__typename": "ReleaseDate",
-                "day": 14,
-                "month": 9,
-                "year": 1951
-            },
-            "releaseYear": {
-                "__typename": "YearRange",
-                "endYear": null,
-                "year": 1950
-            },
-            "titleText": {
-                "__typename": "TitleText",
-                "text": "All About Eve"
-            },
-            "titleType": {
-                "__typename": "TitleType",
-                "id": "movie",
-                "isEpisode": false,
-                "isSeries": false,
-                "text": "Movie"
-            }
+        "releaseDate": null,
+        "releaseYear": {
+          "__typename": "YearRange",
+          "endYear": null,
+          "year": 1896
+        },
+        "titleText": {
+          "__typename": "TitleText",
+          "text": "Jetée et plage de Trouville (1er partie)"
+        },
+        "titleType": {
+          "__typename": "TitleType",
+          "id": "short",
+          "isEpisode": false,
+          "isSeries": false,
+          "text": "Short"
         }
-    }
+      },
+      {
+        "_id": "61e57fd65c5338f43c777f56",
+        "id": "tt0000125",
+        "originalTitleText": {
+          "__typename": "TitleText",
+          "text": "The Terrible Railway Accident"
+        },
+        "primaryImage": null,
+        "releaseDate": null,
+        "releaseYear": {
+          "__typename": "YearRange",
+          "endYear": null,
+          "year": 1896
+        },
+        "titleText": {
+          "__typename": "TitleText",
+          "text": "The Terrible Railway Accident"
+        },
+        "titleType": {
+          "__typename": "TitleType",
+          "id": "short",
+          "isEpisode": false,
+          "isSeries": false,
+          "text": "Short"
+        }
+      },
+      {
+        "_id": "61e58086971a4a15d6413b33",
+        "id": "tt0042192",
+        "originalTitleText": {
+          "__typename": "TitleText",
+          "text": "All About Eve"
+        },
+        "primaryImage": {
+          "__typename": "Image",
+          "caption": "all about eve",
+          "height": 1500,
+          "id": "rm3316236544",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+          "width": 1000
+        },
+        "releaseDate": {
+          "__typename": "ReleaseDate",
+          "day": 14,
+          "month": 9,
+          "year": 1951
+        },
+        "releaseYear": {
+          "__typename": "YearRange",
+          "endYear": null,
+          "year": 1950
+        },
+        "titleText": {
+          "__typename": "TitleText",
+          "text": "All About Eve"
+        },
+        "titleType": {
+          "__typename": "TitleType",
+          "id": "movie",
+          "isEpisode": false,
+          "isSeries": false,
+          "text": "Movie"
+        }
+      }
+    ]
+  }
 }
