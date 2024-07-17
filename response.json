@@ -307,32 +307,6 @@
                 }
             },
             {
-                "_id": "61e57fd65c5338f43c777f56",
-                "id": "tt0000125",
-                "originalTitleText": {
-                    "__typename": "TitleText",
-                    "text": "The Terrible Railway Accident"
-                },
-                "primaryImage": null,
-                "releaseDate": null,
-                "releaseYear": {
-                    "__typename": "YearRange",
-                    "endYear": null,
-                    "year": 1896
-                },
-                "titleText": {
-                    "__typename": "TitleText",
-                    "text": "The Terrible Railway Accident"
-                },
-                "titleType": {
-                    "__typename": "TitleType",
-                    "id": "short",
-                    "isEpisode": false,
-                    "isSeries": false,
-                    "text": "Short"
-                }
-            },
-            {
                 "_id": "61e57fd65c5338f43c777f58",
                 "id": "tt0000184",
                 "originalTitleText": {
