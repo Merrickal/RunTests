@@ -407,39 +407,6 @@
                     "isSeries": false,
                     "text": "Short"
                 }
-            },
-            {
-                "_id": "61e57fd65c5338f43c777f5c",
-                "id": "tt0000086",
-                "originalTitleText": {
-                    "__typename": "TitleText",
-                    "text": "Jetée et plage de Trouville (1er partie)"
-                },
-                "primaryImage": {
-                    "__typename": "Image",
-                    "caption": "",
-                    "height": 300,
-                    "id": "rm1872487936",
-                    "url": "https://m.media-amazon.com/images/M/MV5BNzdmZjgzMmQtNWNmYS00NTIzLTkxYjctNmUxYmJlMDAzZDk4XkEyXkFqcGdeQXVyNTI2NTY2MDI@._V1_.jpg",
-                    "width": 226
-                },
-                "releaseDate": null,
-                "releaseYear": {
-                    "__typename": "YearRange",
-                    "endYear": null,
-                    "year": 1896
-                },
-                "titleText": {
-                    "__typename": "TitleText",
-                    "text": "Jetée et plage de Trouville (1er partie)"
-                },
-                "titleType": {
-                    "__typename": "TitleType",
-                    "id": "short",
-                    "isEpisode": false,
-                    "isSeries": false,
-                    "text": "Short"
-                }
             }
         ]
     }
